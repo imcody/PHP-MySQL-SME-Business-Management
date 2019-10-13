@@ -51,10 +51,9 @@ $active_record = TRUE;
 $db['default']['hostname'] = 'localhost';
 
 //Localhost Database Configuration
-$db['default']['username'] = 'root';//'rafizage_4g010';//'rafizage_focus';
-$db['default']['password'] = 'T2r3k$h0wk0t';//'xWVOt5@B@X?l=g*igQA4@Nwd';//'b?7,S+P]$gLr+&Ft^DS&Hm=+';//'T2r3k$h0wk0t';
-$db['default']['database'] = 'distributor';//'rafizage_agency';//'rafizage_focus';//'focus_distributor';
-//$db['default']['database'] = 'rafizage_backup';
+$db['default']['username'] = '';
+$db['default']['password'] = '';
+$db['default']['database'] = '';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = 'dist_';
 

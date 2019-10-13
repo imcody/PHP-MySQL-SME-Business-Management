@@ -14,8 +14,7 @@
 | path to your installation.
 |
 */
-//$config['base_url'] = 'http://rafiz-agency.ml/';
-$config['base_url'] = 'http://localhost:8512/bizsol/';
+$config['base_url'] = '';
 /*
 |--------------------------------------------------------------------------
 | Index File
